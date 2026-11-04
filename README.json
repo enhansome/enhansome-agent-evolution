@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Eliza",
-          "description": "Autonomous agents for everyone. A framework for creating and deploying AI agents that evolve over time. by @elizaOS (19,687 stars)",
+          "description": "Autonomous agents for everyone. A framework for creating and deploying AI agents that evolve over time. by @elizaOS (19,766 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 826170402,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T20:17:57Z",
-            "open_issues": 320,
+            "last_commit": "2026-11-04T12:54:18Z",
+            "open_issues": 326,
             "owner": "elizaOS",
             "repo": "eliza",
-            "stars": 19761,
+            "stars": 19770,
             "topics": [
               "agent",
               "agentic",
@@ -43,7 +43,7 @@
         {
           "node_type": "item",
           "title": "Agent Zero",
-          "description": "General-purpose AI agent framework that learns and evolves through interaction. by @agent0ai (19,588 stars)",
+          "description": "General-purpose AI agent framework that learns and evolves through interaction. by @agent0ai (19,705 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -53,10 +53,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T23:18:27Z",
-            "open_issues": 145,
+            "open_issues": 147,
             "owner": "agent0ai",
             "repo": "agent-zero",
-            "stars": 19698,
+            "stars": 19715,
             "topics": [
               "agent",
               "ai",
@@ -71,7 +71,7 @@
         {
           "node_type": "item",
           "title": "SuperAGI",
-          "description": "A dev-first open source autonomous AI agent framework. Build, manage and run self-improving autonomous agents. by @TransformerOptimus (17,720 stars)",
+          "description": "A dev-first open source autonomous AI agent framework. Build, manage and run self-improving autonomous agents. by @TransformerOptimus (17,732 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -84,7 +84,7 @@
             "open_issues": 270,
             "owner": "TransformerOptimus",
             "repo": "SuperAGI",
-            "stars": 17731,
+            "stars": 17732,
             "topics": [
               "agents",
               "agi",
@@ -108,7 +108,7 @@
         {
           "node_type": "item",
           "title": "Orkas",
-          "description": "Local-first multi-agent desktop application whose specialist agents improve through reflection and crystallize successful approaches into private reusable skills. by @Orkas-AI (2,625 stars)",
+          "description": "Local-first multi-agent desktop application whose specialist agents improve through reflection and crystallize successful approaches into private reusable skills. by @Orkas-AI (8,993 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -117,11 +117,11 @@
             "id": 1224575142,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T05:20:44Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-04T15:59:00Z",
+            "open_issues": 15,
             "owner": "Orkas-AI",
             "repo": "Orkas",
-            "stars": 8976,
+            "stars": 9018,
             "topics": [
               "agent-collaboration",
               "agent-harness",
@@ -150,7 +150,7 @@
         {
           "node_type": "item",
           "title": "evolver",
-          "description": "The GEP-powered self-evolution engine for AI agents. Genome Evolution Protocol enables agents to evolve autonomously via mutation and selection. by @EvoMap (8,702 stars)",
+          "description": "The GEP-powered self-evolution engine for AI agents. Genome Evolution Protocol enables agents to evolve autonomously via mutation and selection. by @EvoMap (8,716 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -160,7 +160,7 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-11-01T09:57:28Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "EvoMap",
             "repo": "evolver",
             "stars": 8716,
@@ -192,7 +192,7 @@
         {
           "node_type": "item",
           "title": "Reef",
-          "description": "Continual learning infra for self-improving agents. Serves agent traffic, turns matched feedback into model-weight or harness updates, and publishes accepted updates as versioned artifacts. by @Human-Agent-Society (7,758 stars)",
+          "description": "Continual learning infra for self-improving agents. Serves agent traffic, turns matched feedback into model-weight or harness updates, and publishes accepted updates as versioned artifacts. by @Human-Agent-Society (7,793 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -201,11 +201,11 @@
             "id": 1351879111,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T15:34:19Z",
-            "open_issues": 145,
+            "last_commit": "2026-11-04T20:07:22Z",
+            "open_issues": 167,
             "owner": "Human-Agent-Society",
             "repo": "reef",
-            "stars": 7790,
+            "stars": 7796,
             "topics": [
               "agent-infrastructure",
               "ai-agents",
@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "OpenEvolve",
-          "description": "Open-source evolutionary coding agent inspired by AlphaEvolve. Evolves code solutions through LLM-driven mutation and selection. by @algorithmicsuperintelligence (7,663 stars)",
+          "description": "Open-source evolutionary coding agent inspired by AlphaEvolve. Evolves code solutions through LLM-driven mutation and selection. by @algorithmicsuperintelligence (7,705 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -232,10 +232,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T06:35:07Z",
-            "open_issues": 89,
+            "open_issues": 92,
             "owner": "algorithmicsuperintelligence",
             "repo": "openevolve",
-            "stars": 7701,
+            "stars": 7710,
             "topics": [
               "alpha-evolve",
               "alphacode",
@@ -276,7 +276,7 @@
             "open_issues": 70,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5968,
+            "stars": 5966,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -288,7 +288,7 @@
         {
           "node_type": "item",
           "title": "EvoAgentX",
-          "description": "Automated framework for evolving agentic workflows. Optimizes agent prompts, tools, and pipelines via evolutionary algorithms. by @ANative-Lab (3,405 stars)",
+          "description": "Automated framework for evolving agentic workflows. Optimizes agent prompts, tools, and pipelines via evolutionary algorithms. by @ANative-Lab (3,418 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -298,10 +298,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-31T01:50:36Z",
-            "open_issues": 38,
+            "open_issues": 40,
             "owner": "ANative-Lab",
             "repo": "EvoAgentX",
-            "stars": 3416,
+            "stars": 3418,
             "topics": [
               "agent",
               "ai",
@@ -321,7 +321,7 @@
         {
           "node_type": "item",
           "title": "HyperAgents",
-          "description": "Self-referential self-improving agents by Meta. DGM-Hyperagents add an optimization layer so agents edit their own improvement process. by @facebookresearch (2,840 stars)",
+          "description": "Self-referential self-improving agents by Meta. DGM-Hyperagents add an optimization layer so agents edit their own improvement process. by @facebookresearch (2,862 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -334,7 +334,7 @@
             "open_issues": 30,
             "owner": "facebookresearch",
             "repo": "HyperAgents",
-            "stars": 2861,
+            "stars": 2865,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:13.719Z"
@@ -342,7 +342,7 @@
         {
           "node_type": "item",
           "title": "SIA",
-          "description": "Self-improving AI framework that autonomously optimizes the performance of any AI system through iterative evaluation and refinement. by @hexo-ai (2,163 stars)",
+          "description": "Self-improving AI framework that autonomously optimizes the performance of any AI system through iterative evaluation and refinement. by @hexo-ai (2,166 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -355,7 +355,7 @@
             "open_issues": 19,
             "owner": "hexo-ai",
             "repo": "sia",
-            "stars": 2166,
+            "stars": 2168,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:13.719Z"
@@ -363,7 +363,7 @@
         {
           "node_type": "item",
           "title": "Ouroboros",
-          "description": "Self-developing general-purpose agent with persistent identity and memory, reviewed changes to its own implementation, and desktop and headless interfaces. by @razzant (1,588 stars)",
+          "description": "Self-developing general-purpose agent with persistent identity and memory, reviewed changes to its own implementation, and desktop and headless interfaces. by @razzant (1,606 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -372,11 +372,11 @@
             "id": 1155766506,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T18:49:04Z",
-            "open_issues": 201,
+            "last_commit": "2026-11-04T20:41:48Z",
+            "open_issues": 159,
             "owner": "razzant",
             "repo": "ouroboros",
-            "stars": 1605,
+            "stars": 1606,
             "topics": [
               "agentic-ai",
               "ai-agent",
@@ -405,7 +405,7 @@
         {
           "node_type": "item",
           "title": "Agent0",
-          "description": "Self-evolving agent framework from UNC/Salesforce/Stanford. Improves without human-curated datasets via curriculum and executor agent competition. by @aiming-lab (1,280 stars)",
+          "description": "Self-evolving agent framework from UNC/Salesforce/Stanford. Improves without human-curated datasets via curriculum and executor agent competition. by @aiming-lab (1,287 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -418,7 +418,7 @@
             "open_issues": 14,
             "owner": "aiming-lab",
             "repo": "Agent0",
-            "stars": 1286,
+            "stars": 1287,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:13.719Z"
@@ -426,7 +426,7 @@
         {
           "node_type": "item",
           "title": "agent-qa",
-          "description": "Self-improving QA agent for natural-language web and mobile tests, using persistent run memory to adapt to UI changes and catch regressions. Source-available under FSL-1.1-ALv2: use is permitted except to provide a competing commercial product or service, and each release converts to Apache-2.0 after two years. by @vostride (899 stars)",
+          "description": "Self-improving QA agent for natural-language web and mobile tests, using persistent run memory to adapt to UI changes and catch regressions. Source-available under FSL-1.1-ALv2: use is permitted except to provide a competing commercial product or service, and each release converts to Apache-2.0 after two years. by @vostride (922 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -439,7 +439,7 @@
             "open_issues": 6,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 921,
+            "stars": 924,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -468,7 +468,7 @@
         {
           "node_type": "item",
           "title": "A-Evolve",
-          "description": "The PyTorch for Agentic AI. Open-source infrastructure that evolves any agent across any domain with zero human intervention. #1 on MCP-Atlas (79.4%). by @A-EVO-Lab (830 stars)",
+          "description": "The PyTorch for Agentic AI. Open-source infrastructure that evolves any agent across any domain with zero human intervention. #1 on MCP-Atlas (79.4%). by @A-EVO-Lab (841 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -497,7 +497,7 @@
         {
           "node_type": "item",
           "title": "SEAgent",
-          "description": "Self-Evolving Computer Use Agent with Autonomous Learning from Experience. by @SunzeY (263 stars)",
+          "description": "Self-Evolving Computer Use Agent with Autonomous Learning from Experience. by @SunzeY (264 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -527,7 +527,7 @@
         {
           "node_type": "item",
           "title": "AgentDescent",
-          "description": "Parallel, asynchronous optimizer for self-evolving agents: workers propose diffs to a shared library of skills, prompts and harnesses, and an aggregator resolves conflicts and accepts merges on a Beta posterior over held-out reward. by @Birfy (199 stars)",
+          "description": "Parallel, asynchronous optimizer for self-evolving agents: workers propose diffs to a shared library of skills, prompts and harnesses, and an aggregator resolves conflicts and accepts merges on a Beta posterior over held-out reward. by @Birfy (204 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -536,11 +536,11 @@
             "id": 1311085469,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T20:15:58Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-04T20:36:36Z",
+            "open_issues": 9,
             "owner": "Birfy",
             "repo": "agentdescent",
-            "stars": 207,
+            "stars": 201,
             "topics": [
               "agent-framework",
               "agents",
@@ -608,7 +608,7 @@
         {
           "node_type": "item",
           "title": "Mem0",
-          "description": "Production-ready AI agent memory with scalable long-term memory. 26% improvement over baseline on LOCOMO benchmark with 91% latency reduction. by @mem0ai (67,954 stars)",
+          "description": "Production-ready AI agent memory with scalable long-term memory. 26% improvement over baseline on LOCOMO benchmark with 91% latency reduction. by @mem0ai (68,363 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -617,11 +617,11 @@
             "id": 656099147,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T21:36:23Z",
-            "open_issues": 898,
+            "last_commit": "2026-11-04T10:55:44Z",
+            "open_issues": 906,
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 68344,
+            "stars": 68402,
             "topics": [
               "agentic-memory",
               "agentic-memory-system",
@@ -644,7 +644,7 @@
         {
           "node_type": "item",
           "title": "Cognee",
-          "description": "Knowledge engine for AI agent memory. Build and query knowledge graphs from unstructured data in 6 lines of code. by @topoteretes (32,832 stars)",
+          "description": "Knowledge engine for AI agent memory. Build and query knowledge graphs from unstructured data in 6 lines of code. by @topoteretes (33,038 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -653,11 +653,11 @@
             "id": 679343504,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T18:58:21Z",
-            "open_issues": 1085,
+            "last_commit": "2026-11-04T20:11:16Z",
+            "open_issues": 1105,
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 33030,
+            "stars": 33063,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -685,7 +685,7 @@
         {
           "node_type": "item",
           "title": "TencentDB Agent Memory",
-          "description": "Fully local long-term memory for AI agents via a four-tier progressive storage architecture, from Tencent Cloud. by @TencentCloud (30,036 stars)",
+          "description": "Fully local long-term memory for AI agents via a four-tier progressive storage architecture, from Tencent Cloud. by @TencentCloud (30,412 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -694,11 +694,11 @@
             "id": 1203558071,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T13:35:48Z",
-            "open_issues": 891,
+            "last_commit": "2026-11-04T11:33:40Z",
+            "open_issues": 892,
             "owner": "TencentCloud",
             "repo": "TencentDB-Agent-Memory",
-            "stars": 30393,
+            "stars": 30447,
             "topics": [
               "agent",
               "ai-agent",
@@ -716,7 +716,7 @@
         {
           "node_type": "item",
           "title": "agentmemory",
-          "description": "Persistent, benchmark-tuned memory for coding agents (Claude Code, Cursor, Copilot CLI, Codex, and any MCP client). Remembers context across sessions so you stop re-explaining. by @rohitg00 (29,957 stars)",
+          "description": "Persistent, benchmark-tuned memory for coding agents (Claude Code, Cursor, Copilot CLI, Codex, and any MCP client). Remembers context across sessions so you stop re-explaining. by @rohitg00 (30,122 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -725,11 +725,11 @@
             "id": 1166408297,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T19:25:49Z",
-            "open_issues": 523,
+            "last_commit": "2026-11-04T19:12:55Z",
+            "open_issues": 490,
             "owner": "rohitg00",
             "repo": "agentmemory",
-            "stars": 30115,
+            "stars": 30135,
             "topics": [
               "agentmemory",
               "agents",
@@ -754,7 +754,7 @@
         {
           "node_type": "item",
           "title": "Letta",
-          "description": "Platform for building stateful agents with advanced self-editing memory. Formerly MemGPT. by @letta-ai (25,272 stars)",
+          "description": "Platform for building stateful agents with advanced self-editing memory. Formerly MemGPT. by @letta-ai (25,344 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -767,7 +767,7 @@
             "open_issues": 0,
             "owner": "letta-ai",
             "repo": "letta",
-            "stars": 25336,
+            "stars": 25349,
             "topics": [
               "ai",
               "ai-agents",
@@ -780,7 +780,7 @@
         {
           "node_type": "item",
           "title": "Memvid",
-          "description": "Single-file memory layer for AI Agents in Rust. +35% SOTA on LoCoMo with ultra-low latency (0.025ms P50). by @memvid (16,868 stars)",
+          "description": "Single-file memory layer for AI Agents in Rust. +35% SOTA on LoCoMo with ultra-low latency (0.025ms P50). by @memvid (17,361 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -793,7 +793,7 @@
             "open_issues": 42,
             "owner": "memvid",
             "repo": "memvid",
-            "stars": 17358,
+            "stars": 17365,
             "topics": [
               "ai",
               "context",
@@ -822,7 +822,7 @@
         {
           "node_type": "item",
           "title": "memU",
-          "description": "Memory system for 24/7 proactive agents. Persistent memory across sessions and platforms. by @NevaMind-AI (14,570 stars)",
+          "description": "Memory system for 24/7 proactive agents. Persistent memory across sessions and platforms. by @NevaMind-AI (14,598 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -831,11 +831,11 @@
             "id": 1028070615,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T02:47:34Z",
-            "open_issues": 137,
+            "last_commit": "2026-11-04T08:27:01Z",
+            "open_issues": 139,
             "owner": "NevaMind-AI",
             "repo": "memU",
-            "stars": 14597,
+            "stars": 14600,
             "topics": [
               "agent-memory",
               "claude-skills",
@@ -854,7 +854,7 @@
         {
           "node_type": "item",
           "title": "EverMemOS",
-          "description": "Long-term memory for 24/7 AI agents across LLMs and platforms. by @EverMind-AI (13,672 stars)",
+          "description": "Long-term memory for 24/7 AI agents across LLMs and platforms. by @EverMind-AI (13,799 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -863,11 +863,11 @@
             "id": 1085086903,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T16:40:02Z",
-            "open_issues": 68,
+            "last_commit": "2026-11-04T07:42:20Z",
+            "open_issues": 67,
             "owner": "EverMind-AI",
             "repo": "EverOS",
-            "stars": 13797,
+            "stars": 13806,
             "topics": [
               "agent-memory",
               "agentic-ai",
@@ -893,7 +893,7 @@
         {
           "node_type": "item",
           "title": "holaOS",
-          "description": "Agent environment for long-horizon work, continuity, and self-evolution. by @holaboss-ai (11,436 stars)",
+          "description": "Agent environment for long-horizon work, continuity, and self-evolution. by @holaboss-ai (11,446 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -906,7 +906,7 @@
             "open_issues": 12,
             "owner": "holaboss-ai",
             "repo": "holaOS",
-            "stars": 11449,
+            "stars": 11446,
             "topics": [
               "agent",
               "agent-harness",
@@ -935,7 +935,7 @@
         {
           "node_type": "item",
           "title": "honcho",
-          "description": "Memory library for building stateful agents with user context management. by @plastic-labs (7,795 stars)",
+          "description": "Memory library for building stateful agents with user context management. by @plastic-labs (7,932 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -944,11 +944,11 @@
             "id": 689777286,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-03T20:16:25Z",
-            "open_issues": 177,
+            "last_commit": "2026-11-04T20:38:26Z",
+            "open_issues": 178,
             "owner": "plastic-labs",
             "repo": "honcho",
-            "stars": 7918,
+            "stars": 7944,
             "topics": [
               "agent-memory",
               "agentic-rag",
@@ -967,7 +967,7 @@
         {
           "node_type": "item",
           "title": "ChatLab",
-          "description": "Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。. by @ChatLab (7,590 stars)",
+          "description": "Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。. by @ChatLab (7,618 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -976,11 +976,11 @@
             "id": 1104370536,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T01:48:48Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-04T02:05:24Z",
+            "open_issues": 17,
             "owner": "ChatLab",
             "repo": "ChatLab",
-            "stars": 7617,
+            "stars": 7621,
             "topics": [
               "ai-agent",
               "chat-analyzer",
@@ -995,7 +995,7 @@
         {
           "node_type": "item",
           "title": "memgraph",
-          "description": "High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++. by @memgraph (4,634 stars)",
+          "description": "High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++. by @memgraph (4,646 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1004,11 +1004,11 @@
             "id": 297302063,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T17:14:01Z",
-            "open_issues": 950,
+            "last_commit": "2026-11-04T19:53:15Z",
+            "open_issues": 953,
             "owner": "memgraph",
             "repo": "memgraph",
-            "stars": 4645,
+            "stars": 4647,
             "topics": [
               "ai",
               "ai-agents",
@@ -1032,7 +1032,7 @@
         {
           "node_type": "item",
           "title": "ReMe",
-          "description": "Memory management kit for agents. File-based and vector-based memory systems. SOTA on LoCoMo and HaluMem benchmarks. by @agentscope-ai (3,703 stars)",
+          "description": "Memory management kit for agents. File-based and vector-based memory systems. SOTA on LoCoMo and HaluMem benchmarks. by @agentscope-ai (3,748 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1041,11 +1041,11 @@
             "id": 849121458,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T05:39:14Z",
-            "open_issues": 54,
+            "last_commit": "2026-11-04T15:23:13Z",
+            "open_issues": 53,
             "owner": "agentscope-ai",
             "repo": "ReMe",
-            "stars": 3748,
+            "stars": 3750,
             "topics": [
               "agent",
               "ai-agents",
@@ -1064,7 +1064,7 @@
         {
           "node_type": "item",
           "title": "MemMachine",
-          "description": "Universal memory layer for AI agents. Episodic (graph-based), profile (SQL), and working memory with scalable storage and retrieval. by @MemMachine (3,075 stars)",
+          "description": "Universal memory layer for AI agents. Episodic (graph-based), profile (SQL), and working memory with scalable storage and retrieval. by @MemMachine (3,085 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1074,10 +1074,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T19:35:16Z",
-            "open_issues": 271,
+            "open_issues": 272,
             "owner": "MemMachine",
             "repo": "MemMachine",
-            "stars": 3085,
+            "stars": 3086,
             "topics": [
               "agent",
               "agentic-ai",
@@ -1114,8 +1114,8 @@
             "id": 820144741,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T20:00:50Z",
-            "open_issues": 148,
+            "last_commit": "2026-11-04T18:04:41Z",
+            "open_issues": 152,
             "owner": "datachain-ai",
             "repo": "datachain",
             "stars": 2830,
@@ -1138,7 +1138,7 @@
         {
           "node_type": "item",
           "title": "nocturne_memory",
-          "description": "Lightweight, rollbackable Long-Term Memory Server for MCP Agents with graph-like structured memory. by @Dataojitori (1,412 stars)",
+          "description": "Lightweight, rollbackable Long-Term Memory Server for MCP Agents with graph-like structured memory. by @Dataojitori (1,420 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1151,7 +1151,7 @@
             "open_issues": 5,
             "owner": "Dataojitori",
             "repo": "nocturne_memory",
-            "stars": 1418,
+            "stars": 1424,
             "topics": [
               "agentic-ai",
               "ai-identity",
@@ -1177,7 +1177,7 @@
         {
           "node_type": "item",
           "title": "Awesome-AI-Memory",
-          "description": "Curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and system design. by @IAAR-Shanghai (1,293 stars)",
+          "description": "Curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and system design. by @IAAR-Shanghai (1,299 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1190,7 +1190,7 @@
             "open_issues": 24,
             "owner": "IAAR-Shanghai",
             "repo": "Awesome-AI-Memory",
-            "stars": 1299,
+            "stars": 1301,
             "topics": [
               "agent-memory",
               "ai-memory",
@@ -1210,7 +1210,7 @@
         {
           "node_type": "item",
           "title": "Mem9",
-          "description": "Unlimited persistent memory layer for AI agents. Cloud-synced memory across sessions and tools. by @mem9-ai (1,229 stars)",
+          "description": "Unlimited persistent memory layer for AI agents. Cloud-synced memory across sessions and tools. by @mem9-ai (1,236 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1219,11 +1219,11 @@
             "id": 1175756746,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T15:05:25Z",
+            "last_commit": "2026-11-04T08:25:06Z",
             "open_issues": 93,
             "owner": "mem9-ai",
             "repo": "mem9",
-            "stars": 1235,
+            "stars": 1236,
             "topics": [
               "dsh-plugin"
             ]
@@ -1233,7 +1233,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Agent-Memory",
-          "description": "Curated systems, benchmarks, and papers on memory for LLMs/MLLMs -- long-term context, retrieval, and reasoning. by @TeleAI-UAGI (699 stars)",
+          "description": "Curated systems, benchmarks, and papers on memory for LLMs/MLLMs -- long-term context, retrieval, and reasoning. by @TeleAI-UAGI (705 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1242,11 +1242,11 @@
             "id": 1086124473,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T16:27:04Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-04T18:46:13Z",
+            "open_issues": 0,
             "owner": "TeleAI-UAGI",
             "repo": "Awesome-Agent-Memory",
-            "stars": 705,
+            "stars": 706,
             "topics": [
               "agent-memory",
               "ai-agent",
@@ -1269,7 +1269,7 @@
         {
           "node_type": "item",
           "title": "MemSkill",
-          "description": "Learning and evolving memory skills for self-evolving agents. Meta-memory that determines what to extract, remember, and forget. by @ViktorAxelsen (589 stars)",
+          "description": "Learning and evolving memory skills for self-evolving agents. Meta-memory that determines what to extract, remember, and forget. by @ViktorAxelsen (598 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1282,7 +1282,7 @@
             "open_issues": 7,
             "owner": "ViktorAxelsen",
             "repo": "MemSkill",
-            "stars": 598,
+            "stars": 600,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:13.719Z"
@@ -1290,7 +1290,7 @@
         {
           "node_type": "item",
           "title": "Caura",
-          "description": "Governed shared memory for AI agent fleets with scoped recall, trust tiers, audit trails, and a knowledge graph over MCP. by @caura-ai (511 stars)",
+          "description": "Governed shared memory for AI agent fleets with scoped recall, trust tiers, audit trails, and a knowledge graph over MCP. by @caura-ai (553 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1299,11 +1299,11 @@
             "id": 1222639711,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T15:54:23Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-04T20:22:14Z",
+            "open_issues": 44,
             "owner": "caura-ai",
             "repo": "caura",
-            "stars": 549,
+            "stars": 550,
             "topics": [
               "agent-memory",
               "agentic-ai",
@@ -1340,7 +1340,7 @@
             "open_issues": 1,
             "owner": "TeleAI-UAGI",
             "repo": "telemem",
-            "stars": 494,
+            "stars": 493,
             "topics": [
               "agent",
               "agent-memory",
@@ -1374,11 +1374,11 @@
             "id": 1219923941,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T18:46:21Z",
-            "open_issues": 39,
+            "last_commit": "2026-11-04T13:28:06Z",
+            "open_issues": 40,
             "owner": "smaramwbc",
             "repo": "statewave",
-            "stars": 271,
+            "stars": 267,
             "topics": [
               "agent-memory",
               "ai-agents",
@@ -1397,7 +1397,7 @@
         {
           "node_type": "item",
           "title": "Mnemoverse",
-          "description": "Persistent memory for AI agents over MCP. Hosted remote server with OAuth or local npx with a key; recall is re-ranked by feedback on whether a memory helped. by @mnemoverse (27 stars)",
+          "description": "Persistent memory for AI agents over MCP. Hosted remote server with OAuth or local npx with a key; recall is re-ranked by feedback on whether a memory helped. by @mnemoverse (28 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1406,8 +1406,8 @@
             "id": 1207193530,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T06:32:07Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-04T20:42:34Z",
+            "open_issues": 10,
             "owner": "mnemoverse",
             "repo": "mcp-memory-server",
             "stars": 28,
@@ -1485,7 +1485,7 @@
         {
           "node_type": "item",
           "title": "Google A2A",
-          "description": "Google's open Agent-to-Agent protocol. Enables agent discovery, secure collaboration, and long-running tasks while preserving agent opacity. by @a2aproject (26,316 stars)",
+          "description": "Google's open Agent-to-Agent protocol. Enables agent discovery, secure collaboration, and long-running tasks while preserving agent opacity. by @a2aproject (26,411 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1494,11 +1494,11 @@
             "id": 954873280,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T20:23:51Z",
-            "open_issues": 296,
+            "last_commit": "2026-11-04T17:46:47Z",
+            "open_issues": 300,
             "owner": "a2aproject",
             "repo": "A2A",
-            "stars": 26410,
+            "stars": 26416,
             "topics": [
               "a2a",
               "a2a-mcp",
@@ -1514,7 +1514,7 @@
         {
           "node_type": "item",
           "title": "mcp-use",
-          "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents. by @mcp-use (10,818 stars)",
+          "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents. by @mcp-use (10,845 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1524,10 +1524,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-02T20:12:29Z",
-            "open_issues": 115,
+            "open_issues": 119,
             "owner": "mcp-use",
             "repo": "mcp-use",
-            "stars": 10842,
+            "stars": 10846,
             "topics": [
               "agent-plugins",
               "agentic-framework",
@@ -1556,7 +1556,7 @@
         {
           "node_type": "item",
           "title": "openagent",
-          "description": "Enterprise AI platform with MCP and A2A protocol management, knowledge base, and admin interface. by @the-open-agent (5,716 stars)",
+          "description": "Enterprise AI platform with MCP and A2A protocol management, knowledge base, and admin interface. by @the-open-agent (5,735 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1569,7 +1569,7 @@
             "open_issues": 49,
             "owner": "the-open-agent",
             "repo": "openagent",
-            "stars": 5736,
+            "stars": 5732,
             "topics": [
               "agent",
               "agentic",
@@ -1597,7 +1597,7 @@
         {
           "node_type": "item",
           "title": "ViteMCP",
-          "description": "A TypeScript framework for building MCP servers. by @punkpeye (3,277 stars)",
+          "description": "A TypeScript framework for building MCP servers. by @punkpeye (3,283 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1610,7 +1610,7 @@
             "open_issues": 1,
             "owner": "punkpeye",
             "repo": "fastmcp",
-            "stars": 3283,
+            "stars": 3284,
             "topics": [
               "mcp",
               "sse"
@@ -1621,7 +1621,7 @@
         {
           "node_type": "item",
           "title": "arcade-mcp",
-          "description": "MCP server framework and tool-development library for building custom agent capabilities and authenticated tool calls. by @ArcadeAI (1,060 stars)",
+          "description": "MCP server framework and tool-development library for building custom agent capabilities and authenticated tool calls. by @ArcadeAI (1,078 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1630,11 +1630,11 @@
             "id": 792542977,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T00:24:41Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-04T19:37:08Z",
+            "open_issues": 23,
             "owner": "ArcadeAI",
             "repo": "arcade-mcp",
-            "stars": 1076,
+            "stars": 1078,
             "topics": [
               "ai",
               "arcade",
@@ -1660,7 +1660,7 @@
         {
           "node_type": "item",
           "title": "A2A x402",
-          "description": "A2A protocol extension adding x402 on-chain payments, letting agents monetize services over Agent-to-Agent calls. by @google-agentic-commerce (569 stars)",
+          "description": "A2A protocol extension adding x402 on-chain payments, letting agents monetize services over Agent-to-Agent calls. by @google-agentic-commerce (570 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1673,7 +1673,7 @@
             "open_issues": 76,
             "owner": "google-agentic-commerce",
             "repo": "a2a-x402",
-            "stars": 570,
+            "stars": 572,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:13.719Z"
@@ -1713,7 +1713,7 @@
         {
           "node_type": "item",
           "title": "dify",
-          "description": "Production-ready platform for building agentic AI workflows with visual orchestration. by @langgenius (159,761 stars)",
+          "description": "Production-ready platform for building agentic AI workflows with visual orchestration. by @langgenius (160,366 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1722,11 +1722,11 @@
             "id": 626805178,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T18:21:55Z",
-            "open_issues": 1247,
+            "last_commit": "2026-11-04T19:46:54Z",
+            "open_issues": 1203,
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 160337,
+            "stars": 160407,
             "topics": [
               "agent",
               "agentic-ai",
@@ -1754,7 +1754,7 @@
         {
           "node_type": "item",
           "title": "LangChain",
-          "description": "Full-stack agent engineering platform with composable chains, tools, and memory integration. by @langchain-ai (148,593 stars)",
+          "description": "Full-stack agent engineering platform with composable chains, tools, and memory integration. by @langchain-ai (148,983 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1763,11 +1763,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T18:33:57Z",
-            "open_issues": 708,
+            "last_commit": "2026-11-04T20:42:10Z",
+            "open_issues": 714,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 148956,
+            "stars": 149025,
             "topics": [
               "agents",
               "ai",
@@ -1796,7 +1796,7 @@
         {
           "node_type": "item",
           "title": "OpenHands",
-          "description": "Open platform for AI software developers as generalist agents. Autonomous coding, debugging, and deployment. by @OpenHands (92,051 stars)",
+          "description": "Open platform for AI software developers as generalist agents. Autonomous coding, debugging, and deployment. by @OpenHands (92,602 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1805,11 +1805,11 @@
             "id": 771302083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T18:47:18Z",
-            "open_issues": 1179,
+            "last_commit": "2026-11-04T19:07:03Z",
+            "open_issues": 1199,
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 92587,
+            "stars": 92652,
             "topics": [
               "agent",
               "artificial-intelligence",
@@ -1827,7 +1827,7 @@
         {
           "node_type": "item",
           "title": "CowAgent",
-          "description": "Super AI assistant based on LLMs with autonomous thinking, task planning, skill creation, and long-term memory. by @zhayujie (47,635 stars)",
+          "description": "Super AI assistant based on LLMs with autonomous thinking, task planning, skill creation, and long-term memory. by @zhayujie (47,776 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1836,11 +1836,11 @@
             "id": 522158088,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T12:35:25Z",
-            "open_issues": 53,
+            "last_commit": "2026-11-04T10:55:36Z",
+            "open_issues": 39,
             "owner": "zhayujie",
             "repo": "CowAgent",
-            "stars": 47772,
+            "stars": 47786,
             "topics": [
               "ai",
               "ai-agent",
@@ -1866,7 +1866,7 @@
         {
           "node_type": "item",
           "title": "langgraph",
-          "description": "Build resilient language agents as stateful graphs with persistence and streaming. by @langchain-ai (44,023 stars)",
+          "description": "Build resilient language agents as stateful graphs with persistence and streaming. by @langchain-ai (44,424 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1875,11 +1875,11 @@
             "id": 676672661,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T19:49:00Z",
-            "open_issues": 450,
+            "last_commit": "2026-11-04T20:38:21Z",
+            "open_issues": 457,
             "owner": "langchain-ai",
             "repo": "langgraph",
-            "stars": 44407,
+            "stars": 44465,
             "topics": [
               "agents",
               "ai",
@@ -1906,7 +1906,7 @@
         {
           "node_type": "item",
           "title": "agno",
-          "description": "Production-ready agent framework that turns agents into deployable services with multi-framework support. by @agno-agi (42,925 stars)",
+          "description": "Production-ready agent framework that turns agents into deployable services with multi-framework support. by @agno-agi (43,053 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1915,11 +1915,11 @@
             "id": 488641606,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T20:14:02Z",
-            "open_issues": 1965,
+            "last_commit": "2026-11-04T16:47:56Z",
+            "open_issues": 1978,
             "owner": "agno-agi",
             "repo": "agno",
-            "stars": 43041,
+            "stars": 43061,
             "topics": [
               "agents",
               "ai",
@@ -1933,7 +1933,7 @@
         {
           "node_type": "item",
           "title": "CoPaw",
-          "description": "Co Personal Agent Workstation built on AgentScope. Desktop agent platform with multi-agent collaboration and tool integration. by @agentscope-ai (36,660 stars)",
+          "description": "Co Personal Agent Workstation built on AgentScope. Desktop agent platform with multi-agent collaboration and tool integration. by @agentscope-ai (37,320 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1942,11 +1942,11 @@
             "id": 1165324947,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T09:33:21Z",
-            "open_issues": 1128,
+            "last_commit": "2026-11-04T12:12:21Z",
+            "open_issues": 1125,
             "owner": "agentscope-ai",
             "repo": "QwenPaw",
-            "stars": 37292,
+            "stars": 37354,
             "topics": [
               "agent",
               "agent-harness",
@@ -1971,7 +1971,7 @@
         {
           "node_type": "item",
           "title": "mastra",
-          "description": "TypeScript framework for building AI-powered applications with agent workflows and RAG. by @mastra-ai (29,136 stars)",
+          "description": "TypeScript framework for building AI-powered applications with agent workflows and RAG. by @mastra-ai (29,318 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1980,11 +1980,11 @@
             "id": 839037098,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T20:26:43Z",
-            "open_issues": 701,
+            "last_commit": "2026-11-04T20:44:35Z",
+            "open_issues": 731,
             "owner": "mastra-ai",
             "repo": "mastra",
-            "stars": 29314,
+            "stars": 29334,
             "topics": [
               "agents",
               "ai",
@@ -2006,7 +2006,7 @@
         {
           "node_type": "item",
           "title": "AgenticSeek",
-          "description": "Fully local autonomous agent with browsing, coding, and multi-agent capabilities. No API keys required. by @Fosowl (27,558 stars)",
+          "description": "Fully local autonomous agent with browsing, coding, and multi-agent capabilities. No API keys required. by @Fosowl (27,615 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2019,7 +2019,7 @@
             "open_issues": 30,
             "owner": "Fosowl",
             "repo": "agenticSeek",
-            "stars": 27614,
+            "stars": 27616,
             "topics": [
               "agentic-ai",
               "agents",
@@ -2036,7 +2036,7 @@
         {
           "node_type": "item",
           "title": "haystack",
-          "description": "Open-source AI orchestration framework for building context-engineered production applications. by @deepset-ai (26,863 stars)",
+          "description": "Open-source AI orchestration framework for building context-engineered production applications. by @deepset-ai (26,924 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2045,11 +2045,11 @@
             "id": 221654678,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T17:57:15Z",
-            "open_issues": 216,
+            "last_commit": "2026-11-04T16:58:09Z",
+            "open_issues": 206,
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26921,
+            "stars": 26926,
             "topics": [
               "agent-framework",
               "agentic-ai",
@@ -2078,7 +2078,7 @@
         {
           "node_type": "item",
           "title": "Google ADK",
-          "description": "Open-source Python toolkit by Google for building, evaluating, and deploying sophisticated AI agents. by @google (22,028 stars)",
+          "description": "Open-source Python toolkit by Google for building, evaluating, and deploying sophisticated AI agents. by @google (22,100 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2087,11 +2087,11 @@
             "id": 958830659,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T19:59:37Z",
-            "open_issues": 448,
+            "last_commit": "2026-11-04T20:24:10Z",
+            "open_issues": 424,
             "owner": "google",
             "repo": "adk-python",
-            "stars": 22095,
+            "stars": 22104,
             "topics": [
               "agent",
               "agentic",
@@ -2116,7 +2116,7 @@
         {
           "node_type": "item",
           "title": "Coze Studio",
-          "description": "AI agent development platform with visual tools for creating, debugging, and deploying agents. by @coze-dev (21,769 stars)",
+          "description": "AI agent development platform with visual tools for creating, debugging, and deploying agents. by @coze-dev (21,804 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2129,7 +2129,7 @@
             "open_issues": 582,
             "owner": "coze-dev",
             "repo": "coze-studio",
-            "stars": 21802,
+            "stars": 21806,
             "topics": [
               "agent",
               "agent-platform",
@@ -2155,7 +2155,7 @@
         {
           "node_type": "item",
           "title": "PydanticAI",
-          "description": "Type-safe AI agent framework built on Pydantic with structured outputs and dependency injection. by @pydantic (20,916 stars)",
+          "description": "Type-safe AI agent framework built on Pydantic with structured outputs and dependency injection. by @pydantic (21,020 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2164,11 +2164,11 @@
             "id": 818331198,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T20:26:38Z",
-            "open_issues": 1781,
+            "last_commit": "2026-11-04T20:43:33Z",
+            "open_issues": 1776,
             "owner": "pydantic",
             "repo": "pydantic-ai",
-            "stars": 21016,
+            "stars": 21026,
             "topics": [
               "agent-framework",
               "genai",
@@ -2184,7 +2184,7 @@
         {
           "node_type": "item",
           "title": "Parlant",
-          "description": "The conversational control layer for customer-facing AI agents. A context-engineering framework for controlling interactions. by @emcie-co (18,312 stars)",
+          "description": "The conversational control layer for customer-facing AI agents. A context-engineering framework for controlling interactions. by @emcie-co (18,322 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2193,11 +2193,11 @@
             "id": 758197374,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T20:20:56Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-04T17:26:37Z",
+            "open_issues": 14,
             "owner": "emcie-co",
             "repo": "parlant",
-            "stars": 18320,
+            "stars": 18326,
             "topics": [
               "ai-agent",
               "customer-experience",
@@ -2213,7 +2213,7 @@
         {
           "node_type": "item",
           "title": "OpenFang",
-          "description": "Open-source Agent Operating System for deploying and managing AI agents. by @RightNow-AI (18,230 stars)",
+          "description": "Open-source Agent Operating System for deploying and managing AI agents. by @RightNow-AI (18,242 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2226,7 +2226,7 @@
             "open_issues": 132,
             "owner": "RightNow-AI",
             "repo": "openfang",
-            "stars": 18242,
+            "stars": 18246,
             "topics": [
               "agent-framework",
               "ai-agents",
@@ -2243,7 +2243,7 @@
         {
           "node_type": "item",
           "title": "agents",
-          "description": "Framework for building realtime voice AI agents with speech-to-speech pipelines. by @livekit (14,969 stars)",
+          "description": "Framework for building realtime voice AI agents with speech-to-speech pipelines. by @livekit (15,079 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2252,11 +2252,11 @@
             "id": 707441527,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T19:41:59Z",
-            "open_issues": 873,
+            "last_commit": "2026-11-04T20:44:37Z",
+            "open_issues": 896,
             "owner": "livekit",
             "repo": "agents",
-            "stars": 15076,
+            "stars": 15086,
             "topics": [
               "agents",
               "ai",
@@ -2271,7 +2271,7 @@
         {
           "node_type": "item",
           "title": "ten-framework",
-          "description": "Open-source framework for building conversational voice AI agents. by @TEN-framework (11,208 stars)",
+          "description": "Open-source framework for building conversational voice AI agents. by @TEN-framework (11,219 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2280,11 +2280,11 @@
             "id": 817354652,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T15:23:06Z",
-            "open_issues": 255,
+            "last_commit": "2026-11-04T19:08:23Z",
+            "open_issues": 256,
             "owner": "TEN-framework",
             "repo": "ten-framework",
-            "stars": 11220,
+            "stars": 11219,
             "topics": [
               "ai",
               "multi-modal",
@@ -2298,7 +2298,7 @@
         {
           "node_type": "item",
           "title": "Agent-Squad",
-          "description": "Flexible framework for managing multiple AI agents and handling complex conversations. by @2FastLabs (7,795 stars)",
+          "description": "Flexible framework for managing multiple AI agents and handling complex conversations. by @2FastLabs (7,797 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2311,7 +2311,7 @@
             "open_issues": 127,
             "owner": "2FastLabs",
             "repo": "agent-squad",
-            "stars": 7796,
+            "stars": 7799,
             "topics": [
               "agentic-ai",
               "agents",
@@ -2340,7 +2340,7 @@
         {
           "node_type": "item",
           "title": "PySpur",
-          "description": "Visual playground for agentic workflows with rapid iteration on multi-agent pipelines. by @PySpur-Dev (5,796 stars)",
+          "description": "Visual playground for agentic workflows with rapid iteration on multi-agent pipelines. by @PySpur-Dev (5,798 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2382,7 +2382,7 @@
         {
           "node_type": "item",
           "title": "MS-Agent",
-          "description": "Lightweight framework by ModelScope to empower agentic execution of complex tasks with memory and deep research. by @modelscope (4,418 stars)",
+          "description": "Lightweight framework by ModelScope to empower agentic execution of complex tasks with memory and deep research. by @modelscope (4,422 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2392,7 +2392,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T13:44:00Z",
-            "open_issues": 65,
+            "open_issues": 68,
             "owner": "modelscope",
             "repo": "ms-agent",
             "stars": 4422,
@@ -2410,7 +2410,7 @@
         {
           "node_type": "item",
           "title": "SandBase Harness",
-          "description": "Local-first, self-hosted AI agent runtime with sandboxed sessions, MCP tool governance, persistent memory, credentials, audit and replay, and a local Console. by @sandbaseai (636 stars)",
+          "description": "Local-first, self-hosted AI agent runtime with sandboxed sessions, MCP tool governance, persistent memory, credentials, audit and replay, and a local Console. by @sandbaseai (641 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2419,11 +2419,11 @@
             "id": 1297278222,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T15:46:41Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-04T16:38:24Z",
+            "open_issues": 1,
             "owner": "sandbaseai",
             "repo": "sandbase-harness",
-            "stars": 641,
+            "stars": 642,
             "topics": [
               "agent-harness",
               "agent-observability",
@@ -2458,7 +2458,7 @@
         {
           "node_type": "item",
           "title": "Claude Code",
-          "description": "Terminal-native agentic coding tool from Anthropic. Understands your codebase and executes tasks through natural language. by @anthropics (153,637 stars)",
+          "description": "Terminal-native agentic coding tool from Anthropic. Understands your codebase and executes tasks through natural language. by @anthropics (154,449 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2467,11 +2467,11 @@
             "id": 937253475,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-03T14:41:04Z",
-            "open_issues": 16339,
+            "last_commit": "2026-11-04T00:02:45Z",
+            "open_issues": 16420,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 154413,
+            "stars": 154536,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:13.719Z"
@@ -2479,7 +2479,7 @@
         {
           "node_type": "item",
           "title": "Codex",
-          "description": "Lightweight coding agent from OpenAI written in Rust. Runs locally as CLI, IDE extension, or desktop app. by @OpenAI (131,325 stars)",
+          "description": "Lightweight coding agent from OpenAI written in Rust. Runs locally as CLI, IDE extension, or desktop app. by @OpenAI (133,064 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2488,11 +2488,11 @@
             "id": 965415649,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T20:01:06Z",
-            "open_issues": 26261,
+            "last_commit": "2026-11-04T20:37:57Z",
+            "open_issues": 26441,
             "owner": "openai",
             "repo": "codex",
-            "stars": 133001,
+            "stars": 133182,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:13.719Z"
@@ -2500,7 +2500,7 @@
         {
           "node_type": "item",
           "title": "Pi",
-          "description": "Self-extensible coding agent and agent harness. Bundles an interactive coding CLI, an agent runtime with tool calling and state, and a unified multi-provider LLM API. by @earendil-works (118,371 stars)",
+          "description": "Self-extensible coding agent and agent harness. Bundles an interactive coding CLI, an agent runtime with tool calling and state, and a unified multi-provider LLM API. by @earendil-works (119,893 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2509,11 +2509,11 @@
             "id": 1035029907,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T20:27:17Z",
-            "open_issues": 322,
+            "last_commit": "2026-11-04T20:15:56Z",
+            "open_issues": 268,
             "owner": "earendil-works",
             "repo": "pi",
-            "stars": 119823,
+            "stars": 120044,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:13.719Z"
@@ -2521,7 +2521,7 @@
         {
           "node_type": "item",
           "title": "agent-skills",
-          "description": "Production-grade engineering skills and best practices for AI coding agents. by @addyosmani (111,232 stars)",
+          "description": "Production-grade engineering skills and best practices for AI coding agents. by @addyosmani (113,105 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2531,10 +2531,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-01T19:24:49Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "addyosmani",
             "repo": "agent-skills",
-            "stars": 113023,
+            "stars": 113256,
             "topics": [
               "agent-skills",
               "antigravity",
@@ -2549,7 +2549,7 @@
         {
           "node_type": "item",
           "title": "Taste-Skill",
-          "description": "High-Agency frontend skill that helps AI generate less generic, more tasteful outputs. by @Leonxlnx (103,835 stars)",
+          "description": "High-Agency frontend skill that helps AI generate less generic, more tasteful outputs. by @Leonxlnx (109,628 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2558,11 +2558,11 @@
             "id": 1162099055,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T14:12:47Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-04T20:19:30Z",
+            "open_issues": 13,
             "owner": "Leonxlnx",
             "repo": "taste-skill",
-            "stars": 109414,
+            "stars": 109979,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -2582,7 +2582,7 @@
         {
           "node_type": "item",
           "title": "Cline",
-          "description": "Autonomous coding agent available as an IDE extension, CLI, or SDK. Plans and executes multi-step edits with human-in-the-loop approval. by @cline (70,946 stars)",
+          "description": "Autonomous coding agent available as an IDE extension, CLI, or SDK. Plans and executes multi-step edits with human-in-the-loop approval. by @cline (71,280 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2591,11 +2591,11 @@
             "id": 824874689,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T19:49:08Z",
-            "open_issues": 1756,
+            "last_commit": "2026-11-04T20:36:01Z",
+            "open_issues": 1760,
             "owner": "cline",
             "repo": "cline",
-            "stars": 71261,
+            "stars": 71311,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:13.719Z"
@@ -2603,7 +2603,7 @@
         {
           "node_type": "item",
           "title": "goose",
-          "description": "Open-source extensible AI coding agent that goes beyond code suggestions. by @aaif-goose (55,844 stars)",
+          "description": "Open-source extensible AI coding agent that goes beyond code suggestions. by @aaif-goose (56,198 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2612,11 +2612,11 @@
             "id": 846698999,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T20:09:42Z",
-            "open_issues": 548,
+            "last_commit": "2026-11-04T20:33:46Z",
+            "open_issues": 551,
             "owner": "aaif-goose",
             "repo": "goose",
-            "stars": 56186,
+            "stars": 56226,
             "topics": [
               "acp",
               "ai",
@@ -2629,7 +2629,7 @@
         {
           "node_type": "item",
           "title": "Aider",
-          "description": "AI pair programming in your terminal. Edit code with LLMs across 100+ languages with deep Git integration. by @Aider-AI (49,785 stars)",
+          "description": "AI pair programming in your terminal. Edit code with LLMs across 100+ languages with deep Git integration. by @Aider-AI (49,932 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2639,10 +2639,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-22T14:02:20Z",
-            "open_issues": 1944,
+            "open_issues": 1943,
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 49925,
+            "stars": 49944,
             "topics": [
               "anthropic",
               "chatgpt",
@@ -2664,20 +2664,20 @@
         {
           "node_type": "item",
           "title": "context-mode",
-          "description": "Context window optimization tool for AI coding agents with sandboxed tool output and 98% token reduction. by @mksglu (32,580 stars)",
+          "description": "Context window optimization tool for AI coding agents with sandboxed tool output and 98% token reduction. by @mksglu (33,407 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
             "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
             "homepage": "https://contextmode.ai/?utm_source=github&utm_medium=about",
             "id": 1164477708,
-            "language": "TypeScript",
+            "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T20:25:21Z",
-            "open_issues": 354,
+            "last_commit": "2026-11-04T20:33:24Z",
+            "open_issues": 355,
             "owner": "mksglu",
             "repo": "context-mode",
-            "stars": 33366,
+            "stars": 33468,
             "topics": [
               "antigravity",
               "claude",
@@ -2706,7 +2706,7 @@
         {
           "node_type": "item",
           "title": "Qwen Code",
-          "description": "Open-source AI coding agent that lives in your terminal, optimized for Qwen-Coder models. by @QwenLM (28,761 stars)",
+          "description": "Open-source AI coding agent that lives in your terminal, optimized for Qwen-Coder models. by @QwenLM (28,986 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2715,11 +2715,11 @@
             "id": 1008713177,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T20:01:24Z",
-            "open_issues": 2119,
+            "last_commit": "2026-11-04T20:44:05Z",
+            "open_issues": 2137,
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 28972,
+            "stars": 29006,
             "topics": [
               "agentic",
               "ai",
@@ -2740,7 +2740,7 @@
         {
           "node_type": "item",
           "title": "SWE-Agent",
-          "description": "Automatically fix GitHub issues and handle cybersecurity challenges. State-of-the-art on SWE-bench. by @SWE-agent (20,661 stars)",
+          "description": "Automatically fix GitHub issues and handle cybersecurity challenges. State-of-the-art on SWE-bench. by @SWE-agent (20,717 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2753,7 +2753,7 @@
             "open_issues": 173,
             "owner": "SWE-agent",
             "repo": "SWE-agent",
-            "stars": 20716,
+            "stars": 20724,
             "topics": [
               "agent",
               "agent-based-model",
@@ -2769,7 +2769,7 @@
         {
           "node_type": "item",
           "title": "Devika",
-          "description": "The first open-source implementation of an Agentic Software Engineer. An open-source alternative to Devin. by @stitionai (19,555 stars)",
+          "description": "The first open-source implementation of an Agentic Software Engineer. An open-source alternative to Devin. by @stitionai (19,550 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2782,7 +2782,7 @@
             "open_issues": 196,
             "owner": "stitionai",
             "repo": "devika",
-            "stars": 19552,
+            "stars": 19548,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:13.719Z"
@@ -2790,7 +2790,7 @@
         {
           "node_type": "item",
           "title": "Plandex",
-          "description": "Open-source AI coding agent designed for large projects and complex real-world tasks with persistent context. by @plandex-ai (15,828 stars)",
+          "description": "Open-source AI coding agent designed for large projects and complex real-world tasks with persistent context. by @plandex-ai (15,896 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2800,10 +2800,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2025-10-03T21:49:58Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15896,
+            "stars": 15895,
             "topics": [
               "ai",
               "ai-agents",
@@ -2828,7 +2828,7 @@
         {
           "node_type": "item",
           "title": "Trae Agent",
-          "description": "LLM-based agent by ByteDance for general-purpose software engineering tasks. by @bytedance (12,161 stars)",
+          "description": "LLM-based agent by ByteDance for general-purpose software engineering tasks. by @bytedance (12,174 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2838,10 +2838,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-05T11:21:00Z",
-            "open_issues": 249,
+            "open_issues": 250,
             "owner": "bytedance",
             "repo": "trae-agent",
-            "stars": 12175,
+            "stars": 12178,
             "topics": [
               "agent",
               "llm",
@@ -2853,7 +2853,7 @@
         {
           "node_type": "item",
           "title": "Open SWE",
-          "description": "Open-source asynchronous coding agent by LangChain for software engineering tasks. by @langchain-ai (11,129 stars)",
+          "description": "Open-source asynchronous coding agent by LangChain for software engineering tasks. by @langchain-ai (11,171 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2862,11 +2862,11 @@
             "id": 987975584,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T20:28:03Z",
-            "open_issues": 216,
+            "last_commit": "2026-11-04T20:44:47Z",
+            "open_issues": 217,
             "owner": "langchain-ai",
             "repo": "open-swe",
-            "stars": 11171,
+            "stars": 11172,
             "topics": [
               "agent",
               "agents",
@@ -2883,7 +2883,7 @@
         {
           "node_type": "item",
           "title": "Mini-SWE-Agent",
-          "description": "The 100-line AI agent that solves GitHub issues. Radically simple but scores >74% on SWE-bench verified. by @SWE-agent (8,896 stars)",
+          "description": "The 100-line AI agent that solves GitHub issues. Radically simple but scores >74% on SWE-bench verified. by @SWE-agent (9,070 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2893,10 +2893,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-02T23:40:17Z",
-            "open_issues": 133,
+            "open_issues": 134,
             "owner": "SWE-agent",
             "repo": "mini-swe-agent",
-            "stars": 9062,
+            "stars": 9085,
             "topics": [
               "agent",
               "agentic-ai",
@@ -2911,7 +2911,7 @@
         {
           "node_type": "item",
           "title": "Reflexion",
-          "description": "Language agents with verbal reinforcement learning. Agents that learn from mistakes through self-reflection. by @noahshinn (3,341 stars)",
+          "description": "Language agents with verbal reinforcement learning. Agents that learn from mistakes through self-reflection. by @noahshinn (3,397 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2924,7 +2924,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3395,
+            "stars": 3397,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -2936,7 +2936,7 @@
         {
           "node_type": "item",
           "title": "OrcaReplay",
-          "description": "Records a coding agent's exchange with its model provider and replays the run without calling the provider; replay can fork from available checkpoints onto a different model. Recorded tool calls still execute on replay. by @Continuum-AI-Corp (287 stars)",
+          "description": "Records a coding agent's exchange with its model provider and replays the run without calling the provider; replay can fork from available checkpoints onto a different model. Recorded tool calls still execute on replay. by @Continuum-AI-Corp (318 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2949,7 +2949,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 296,
+            "stars": 337,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -2973,7 +2973,7 @@
         {
           "node_type": "item",
           "title": "Orbi",
-          "description": "Self-hosted coding agent that takes a labeled GitHub issue to an independently reviewed, merged pull request and, when requested, a tagged release. by @orbi-build (231 stars)",
+          "description": "Self-hosted coding agent that takes a labeled GitHub issue to an independently reviewed, merged pull request and, when requested, a tagged release. by @orbi-build (242 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3014,7 +3014,7 @@
         {
           "node_type": "item",
           "title": "Autohand Code",
-          "description": "Self-evolving coding agent that runs in your terminal. by @autohandai (211 stars)",
+          "description": "Self-evolving coding agent that runs in your terminal. by @autohandai (216 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3023,11 +3023,11 @@
             "id": 1114841676,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T09:43:48Z",
-            "open_issues": 53,
+            "last_commit": "2026-11-04T15:47:28Z",
+            "open_issues": 59,
             "owner": "autohandai",
             "repo": "code-cli",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "agentic-ai",
               "ai",
@@ -3054,7 +3054,7 @@
         {
           "node_type": "item",
           "title": "Ivy Tendril",
-          "description": "Source-available agentic software factory for coordinating parallel Git worktrees with programmatic verification and review workflows. Licensed under FSL-1.1-ALv2, which restricts Competing Use. by @Ivy-Interactive (203 stars)",
+          "description": "Source-available agentic software factory for coordinating parallel Git worktrees with programmatic verification and review workflows. Licensed under FSL-1.1-ALv2, which restricts Competing Use. by @Ivy-Interactive (204 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3085,7 +3085,7 @@
         {
           "node_type": "item",
           "title": "Frink",
-          "description": "Local-first desktop app that orchestrates Claude Code, Codex, OpenCode, GitHub Copilot, and Cursor in trigger-based flows with configurable permission controls. by @benord-labs (181 stars)",
+          "description": "Local-first desktop app that orchestrates Claude Code, Codex, OpenCode, GitHub Copilot, and Cursor in trigger-based flows with configurable permission controls. by @benord-labs (183 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3133,7 +3133,7 @@
         {
           "node_type": "item",
           "title": "MetaGPT",
-          "description": "Multi-agent framework that assigns roles to GPTs to form a collaborative software entity. by @FoundationAgents (71,040 stars)",
+          "description": "Multi-agent framework that assigns roles to GPTs to form a collaborative software entity. by @FoundationAgents (71,152 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3143,10 +3143,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
-            "open_issues": 144,
+            "open_issues": 146,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 71151,
+            "stars": 71171,
             "topics": [
               "agent",
               "gpt",
@@ -3160,7 +3160,7 @@
         {
           "node_type": "item",
           "title": "autogen",
-          "description": "Programming framework for building agentic AI systems with multi-agent conversations. by @microsoft (61,598 stars)",
+          "description": "Programming framework for building agentic AI systems with multi-agent conversations. by @microsoft (61,693 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3170,10 +3170,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-28T14:45:27Z",
-            "open_issues": 1139,
+            "open_issues": 1143,
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 61692,
+            "stars": 61704,
             "topics": [
               "agentic",
               "agentic-agi",
@@ -3192,7 +3192,7 @@
         {
           "node_type": "item",
           "title": "crewAI",
-          "description": "Framework for orchestrating role-playing autonomous AI agents for collaborative task execution. by @crewAIInc (60,193 stars)",
+          "description": "Framework for orchestrating role-playing autonomous AI agents for collaborative task execution. by @crewAIInc (60,471 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3201,11 +3201,11 @@
             "id": 710601088,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T19:30:33Z",
-            "open_issues": 1058,
+            "last_commit": "2026-11-04T20:04:27Z",
+            "open_issues": 1110,
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 60456,
+            "stars": 60500,
             "topics": [
               "agents",
               "ai",
@@ -3219,7 +3219,7 @@
         {
           "node_type": "item",
           "title": "Vibe-Trading",
-          "description": "Personal trading agent for multi-agent market analysis and backtesting. by @HKUDS (36,938 stars)",
+          "description": "Personal trading agent for multi-agent market analysis and backtesting. by @HKUDS (37,585 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3228,11 +3228,11 @@
             "id": 1198306812,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T18:53:08Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-04T18:06:23Z",
+            "open_issues": 24,
             "owner": "HKUDS",
             "repo": "Vibe-Trading",
-            "stars": 37555,
+            "stars": 37645,
             "topics": [
               "ai-agent",
               "algorithmic-trading",
@@ -3251,7 +3251,7 @@
         {
           "node_type": "item",
           "title": "agentscope",
-          "description": "Multi-agent platform for building agents you can see, understand and trust. by @agentscope-ai (34,527 stars)",
+          "description": "Multi-agent platform for building agents you can see, understand and trust. by @agentscope-ai (35,343 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3260,11 +3260,11 @@
             "id": 742244656,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T10:13:37Z",
-            "open_issues": 707,
+            "last_commit": "2026-11-04T10:09:19Z",
+            "open_issues": 730,
             "owner": "agentscope-ai",
             "repo": "agentscope",
-            "stars": 35313,
+            "stars": 35377,
             "topics": [
               "agent",
               "chatbot",
@@ -3285,7 +3285,7 @@
         {
           "node_type": "item",
           "title": "openai-agents-python",
-          "description": "Lightweight framework for multi-agent workflows by OpenAI. by @openai (30,345 stars)",
+          "description": "Lightweight framework for multi-agent workflows by OpenAI. by @openai (30,488 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3294,11 +3294,11 @@
             "id": 946380199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T19:46:17Z",
-            "open_issues": 52,
+            "last_commit": "2026-11-04T20:42:45Z",
+            "open_issues": 59,
             "owner": "openai",
             "repo": "openai-agents-python",
-            "stars": 30479,
+            "stars": 30493,
             "topics": [
               "agents",
               "ai",
@@ -3314,7 +3314,7 @@
         {
           "node_type": "item",
           "title": "GenAI Agents",
-          "description": "Comprehensive tutorials and implementations covering 50+ generative AI agent techniques from basic to advanced. by @NirDiamant (24,707 stars)",
+          "description": "Comprehensive tutorials and implementations covering 50+ generative AI agent techniques from basic to advanced. by @NirDiamant (24,815 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3327,7 +3327,7 @@
             "open_issues": 21,
             "owner": "NirDiamant",
             "repo": "GenAI_Agents",
-            "stars": 24813,
+            "stars": 24821,
             "topics": [
               "agentic-ai",
               "agents",
@@ -3355,7 +3355,7 @@
         {
           "node_type": "item",
           "title": "swarm",
-          "description": "Educational framework exploring ergonomic lightweight multi-agent orchestration by OpenAI. by @openai (22,080 stars)",
+          "description": "Educational framework exploring ergonomic lightweight multi-agent orchestration by OpenAI. by @openai (22,108 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3368,7 +3368,7 @@
             "open_issues": 38,
             "owner": "openai",
             "repo": "swarm",
-            "stars": 22106,
+            "stars": 22110,
             "topics": []
           },
           "first_seen": "2026-08-30T18:02:24.719Z"
@@ -3376,7 +3376,7 @@
         {
           "node_type": "item",
           "title": "camel",
-          "description": "Multi-agent framework for finding the scaling law of agents through role-playing communication. by @camel-ai (17,986 stars)",
+          "description": "Multi-agent framework for finding the scaling law of agents through role-playing communication. by @camel-ai (18,013 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3386,10 +3386,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T10:15:02Z",
-            "open_issues": 565,
+            "open_issues": 567,
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 18012,
+            "stars": 18011,
             "topics": [
               "agent",
               "ai-societies",
@@ -3407,7 +3407,7 @@
         {
           "node_type": "item",
           "title": "agent-framework",
-          "description": "Framework for building, orchestrating and deploying AI agents and multi-agent systems. by @microsoft (14,348 stars)",
+          "description": "Framework for building, orchestrating and deploying AI agents and multi-agent systems. by @microsoft (14,527 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3416,11 +3416,11 @@
             "id": 974445592,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T19:44:34Z",
-            "open_issues": 931,
+            "last_commit": "2026-11-04T19:06:45Z",
+            "open_issues": 896,
             "owner": "microsoft",
             "repo": "agent-framework",
-            "stars": 14520,
+            "stars": 14532,
             "topics": [
               "agent-framework",
               "agentic-ai",
@@ -3439,17 +3439,17 @@
         {
           "node_type": "item",
           "title": "PraisonAI",
-          "description": "AI employee team platform that automates and solves complex challenges with multi-agent collaboration. by @MervinPraison (9,301 stars)",
+          "description": "AI employee team platform that automates and solves complex challenges with multi-agent collaboration. by @MervinPraison (9,322 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.",
-            "homepage": "https://praison.ai/docs",
+            "description": "Private AI agents for highly regulated teams, and for anyone who wants AI on their own computer. Open-source Python agent framework that runs fully offline.",
+            "homepage": "https://praison.ai",
             "id": 774497032,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T11:56:00Z",
-            "open_issues": 124,
+            "last_commit": "2026-11-04T20:33:54Z",
+            "open_issues": 99,
             "owner": "MervinPraison",
             "repo": "PraisonAI",
             "stars": 9321,
@@ -3459,21 +3459,20 @@
               "ai-agent-framework",
               "ai-agent-sdk",
               "ai-agents",
-              "ai-agents-framework",
               "ai-agents-sdk",
-              "ai-framwork",
-              "aiagent",
-              "aiagentframework",
               "aiagents",
-              "aiagentsframework",
+              "air-gapped",
               "framework",
-              "hermes",
-              "hermes-agent",
+              "llm",
               "multi-agent",
               "multi-agent-system",
               "multi-agents",
-              "multi-ai-agents",
-              "openclaw"
+              "on-premise",
+              "openclaw",
+              "private-ai",
+              "python",
+              "regulated-industries",
+              "self-hosted"
             ]
           },
           "first_seen": "2026-08-30T18:02:24.719Z"
@@ -3481,7 +3480,7 @@
         {
           "node_type": "item",
           "title": "swarms",
-          "description": "Enterprise-grade production-ready multi-agent orchestration framework. by @kyegomez (7,307 stars)",
+          "description": "Enterprise-grade production-ready multi-agent orchestration framework. by @kyegomez (7,350 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3490,8 +3489,8 @@
             "id": 639195966,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T18:12:15Z",
-            "open_issues": 456,
+            "last_commit": "2026-11-04T18:17:59Z",
+            "open_issues": 463,
             "owner": "kyegomez",
             "repo": "swarms",
             "stars": 7350,
@@ -3521,7 +3520,7 @@
         {
           "node_type": "item",
           "title": "open-multi-agent",
-          "description": "TypeScript multi-agent framework with one function call from goal to result. by @open-multi-agent (7,025 stars)",
+          "description": "TypeScript multi-agent framework with one function call from goal to result. by @open-multi-agent (7,045 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3530,11 +3529,11 @@
             "id": 1197656406,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T17:50:03Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-04T16:56:40Z",
+            "open_issues": 6,
             "owner": "open-multi-agent",
             "repo": "open-multi-agent",
-            "stars": 7044,
+            "stars": 7047,
             "topics": [
               "agent-framework",
               "agent-orchestration",
@@ -3575,7 +3574,7 @@
             "open_issues": 61,
             "owner": "InternLM",
             "repo": "MindSearch",
-            "stars": 6945,
+            "stars": 6942,
             "topics": [
               "ai-search-engine",
               "gpt",
@@ -3594,7 +3593,7 @@
         {
           "node_type": "item",
           "title": "agency-swarm",
-          "description": "Reliable multi-agent orchestration framework for building AI agent swarms. by @VRSEN (4,617 stars)",
+          "description": "Reliable multi-agent orchestration framework for building AI agent swarms. by @VRSEN (4,631 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3604,10 +3603,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-02T00:31:36Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "VRSEN",
             "repo": "agency-swarm",
-            "stars": 4627,
+            "stars": 4631,
             "topics": []
           },
           "first_seen": "2026-08-30T18:02:24.719Z"
@@ -3615,7 +3614,7 @@
         {
           "node_type": "item",
           "title": "Golutra",
-          "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. by @golutra (3,861 stars)",
+          "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. by @golutra (3,867 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3657,7 +3656,7 @@
         {
           "node_type": "item",
           "title": "GoClaw",
-          "description": "OpenClaw rebuilt in Go with multi-tenant isolation, 5-layer security, and native concurrency for deploying AI agent teams at scale. by @nextlevelbuilder (3,677 stars)",
+          "description": "OpenClaw rebuilt in Go with multi-tenant isolation, 5-layer security, and native concurrency for deploying AI agent teams at scale. by @nextlevelbuilder (3,700 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3667,7 +3666,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T10:35:24Z",
-            "open_issues": 283,
+            "open_issues": 289,
             "owner": "nextlevelbuilder",
             "repo": "goclaw",
             "stars": 3699,
@@ -3695,7 +3694,7 @@
         {
           "node_type": "item",
           "title": "BotSharp",
-          "description": "AI multi-agent framework built on .NET for enterprise conversational applications. by @SciSharp (3,115 stars)",
+          "description": "AI multi-agent framework built on .NET for enterprise conversational applications. by @SciSharp (3,116 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3704,8 +3703,8 @@
             "id": 114540126,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T08:01:48Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-04T09:22:55Z",
+            "open_issues": 49,
             "owner": "SciSharp",
             "repo": "BotSharp",
             "stars": 3116,
@@ -3720,7 +3719,7 @@
         {
           "node_type": "item",
           "title": "agentUniverse",
-          "description": "LLM multi-agent framework for building, customizing and running collaborative agents. by @agentuniverse-ai (2,417 stars)",
+          "description": "LLM multi-agent framework for building, customizing and running collaborative agents. by @agentuniverse-ai (2,427 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3733,7 +3732,7 @@
             "open_issues": 2613,
             "owner": "agentuniverse-ai",
             "repo": "agentUniverse",
-            "stars": 2427,
+            "stars": 2428,
             "topics": [
               "agent",
               "ai",
@@ -3751,7 +3750,7 @@
         {
           "node_type": "item",
           "title": "LLMStack",
-          "description": "No-code multi-agent framework for building LLM agent workflows and applications. by @trypromptly (2,310 stars)",
+          "description": "No-code multi-agent framework for building LLM agent workflows and applications. by @trypromptly (2,308 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3784,7 +3783,7 @@
         {
           "node_type": "item",
           "title": "Sage",
-          "description": "Multi-agent system framework for complex tasks. by @ZHangZHengEric (1,214 stars)",
+          "description": "Multi-agent system framework for complex tasks. by @ZHangZHengEric (1,216 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3793,11 +3792,11 @@
             "id": 989917360,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T08:32:58Z",
+            "last_commit": "2026-11-04T10:01:58Z",
             "open_issues": 10,
             "owner": "ZHangZHengEric",
             "repo": "Sage",
-            "stars": 1218,
+            "stars": 1209,
             "topics": [
               "agents",
               "ai",
@@ -3823,7 +3822,7 @@
         {
           "node_type": "item",
           "title": "Promptfoo",
-          "description": "Open-source LLM evaluation and red-teaming framework. Test prompts, agents, and RAGs with 90+ model providers and 67+ security plugins. by @promptfoo (26,524 stars)",
+          "description": "Open-source LLM evaluation and red-teaming framework. Test prompts, agents, and RAGs with 90+ model providers and 67+ security plugins. by @promptfoo (26,809 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3832,11 +3831,11 @@
             "id": 633927609,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T08:29:35Z",
-            "open_issues": 910,
+            "last_commit": "2026-11-04T20:30:15Z",
+            "open_issues": 911,
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 26797,
+            "stars": 26835,
             "topics": [
               "ci",
               "ci-cd",
@@ -3863,7 +3862,7 @@
         {
           "node_type": "item",
           "title": "TextGrad",
-          "description": "Automatic differentiation via text. Backpropagation through LLM-provided textual gradients, published in Nature. by @zou-group (3,777 stars)",
+          "description": "Automatic differentiation via text. Backpropagation through LLM-provided textual gradients, published in Nature. by @zou-group (3,786 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3876,7 +3875,7 @@
             "open_issues": 66,
             "owner": "zou-group",
             "repo": "textgrad",
-            "stars": 3785,
+            "stars": 3787,
             "topics": [
               "ai-optimization",
               "compound-systems",
@@ -3896,7 +3895,7 @@
         {
           "node_type": "item",
           "title": "NeMo Guardrails",
-          "description": "NVIDIA's toolkit for adding programmable guardrails to LLM conversational systems. Policy-based safety controls. by @NVIDIA-NeMo (7,384 stars)",
+          "description": "NVIDIA's toolkit for adding programmable guardrails to LLM conversational systems. Policy-based safety controls. by @NVIDIA-NeMo (7,427 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3905,11 +3904,11 @@
             "id": 629494390,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T20:09:03Z",
-            "open_issues": 282,
+            "last_commit": "2026-11-04T20:00:27Z",
+            "open_issues": 285,
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7424,
+            "stars": 7434,
             "topics": [
               "agents",
               "generative-ai",
@@ -3927,7 +3926,7 @@
         {
           "node_type": "item",
           "title": "AgentDoG",
-          "description": "Diagnostic guardrail framework for AI agent safety and security. Detects and intercepts unsafe agent behavior at runtime. by @AI45Lab (705 stars)",
+          "description": "Diagnostic guardrail framework for AI agent safety and security. Detects and intercepts unsafe agent behavior at runtime. by @AI45Lab (708 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3940,7 +3939,7 @@
             "open_issues": 2,
             "owner": "AI45Lab",
             "repo": "AgentDoG",
-            "stars": 708,
+            "stars": 709,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:13.719Z"
@@ -3957,7 +3956,7 @@
             "id": 1326961553,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T17:53:05Z",
+            "last_commit": "2026-11-04T08:03:48Z",
             "open_issues": 153,
             "owner": "wavect",
             "repo": "semaprax",
@@ -3988,7 +3987,7 @@
         {
           "node_type": "item",
           "title": "LeRobot",
-          "description": "Open-source robotics framework by Hugging Face. Models, datasets, and tools for real-world robotics in PyTorch. by @huggingface (28,534 stars)",
+          "description": "Open-source robotics framework by Hugging Face. Models, datasets, and tools for real-world robotics in PyTorch. by @huggingface (28,674 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3997,11 +3996,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T18:15:34Z",
-            "open_issues": 891,
+            "last_commit": "2026-11-04T20:24:02Z",
+            "open_issues": 904,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28666,
+            "stars": 28682,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:13.719Z"
@@ -4009,7 +4008,7 @@
         {
           "node_type": "item",
           "title": "Open-AutoGLM",
-          "description": "An Open Phone Agent Model and Framework. Unlocking the AI Phone for Everyone. by @zai-org (26,490 stars)",
+          "description": "An Open Phone Agent Model and Framework. Unlocking the AI Phone for Everyone. by @zai-org (26,532 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4019,10 +4018,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-06T08:38:39Z",
-            "open_issues": 275,
+            "open_issues": 276,
             "owner": "zai-org",
             "repo": "Open-AutoGLM",
-            "stars": 26529,
+            "stars": 26538,
             "topics": [
               "agent",
               "phone-use-agent"
@@ -4033,7 +4032,7 @@
         {
           "node_type": "item",
           "title": "Nanobrowser",
-          "description": "Chrome extension for AI-powered web automation. Run multi-agent workflows using your own AI keys. by @nanobrowser (14,195 stars)",
+          "description": "Chrome extension for AI-powered web automation. Run multi-agent workflows using your own AI keys. by @nanobrowser (14,232 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4043,10 +4042,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-24T07:28:41Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "nanobrowser",
             "repo": "nanobrowser",
-            "stars": 14229,
+            "stars": 14236,
             "topics": [
               "agent",
               "ai-agents",
@@ -4075,7 +4074,7 @@
         {
           "node_type": "item",
           "title": "Mobile MCP",
-          "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators and Real Devices). by @mobile-next (10,064 stars)",
+          "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators and Real Devices). by @mobile-next (10,278 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4088,7 +4087,7 @@
             "open_issues": 67,
             "owner": "mobile-next",
             "repo": "mobile-mcp",
-            "stars": 10266,
+            "stars": 10295,
             "topics": [
               "agent",
               "android",
@@ -4115,7 +4114,7 @@
         {
           "node_type": "item",
           "title": "MobileBuildMCP",
-          "description": "A MCP server and CLI for agent use when working on iOS and macOS projects. by @getsentry (6,512 stars)",
+          "description": "A MCP server and CLI for agent use when working on iOS and macOS projects. by @getsentry (6,536 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4128,7 +4127,7 @@
             "open_issues": 34,
             "owner": "getsentry",
             "repo": "MobileBuildMCP",
-            "stars": 6536,
+            "stars": 6538,
             "topics": [
               "mcp",
               "mcp-server",
@@ -4144,7 +4143,7 @@
         {
           "node_type": "item",
           "title": "agent-device",
-          "description": "CLI that lets AI agents drive real iOS and Android devices — taps, text input, screenshots, and app control for mobile automation. by @callstack (5,169 stars)",
+          "description": "CLI that lets AI agents drive real iOS and Android devices — taps, text input, screenshots, and app control for mobile automation. by @callstack (5,259 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4153,11 +4152,11 @@
             "id": 1146193768,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T18:18:34Z",
-            "open_issues": 104,
+            "last_commit": "2026-11-04T20:37:21Z",
+            "open_issues": 103,
             "owner": "callstack",
             "repo": "agent-device",
-            "stars": 5253,
+            "stars": 5267,
             "topics": [
               "adb",
               "agentic-ai",
@@ -4209,7 +4208,7 @@
         {
           "node_type": "item",
           "title": "RAI",
-          "description": "Vendor-agnostic agentic framework for Physical AI and robotics. Connects LLM agents to ROS 2 tools for perception, reasoning, and control. by @RobotecAI (610 stars)",
+          "description": "Vendor-agnostic agentic framework for Physical AI and robotics. Connects LLM agents to ROS 2 tools for perception, reasoning, and control. by @RobotecAI (612 stars)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4292,10 +4291,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-18T05:08:56Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "SWE-bench",
             "repo": "SWE-bench",
-            "stars": 6141,
+            "stars": 6145,
             "topics": [
               "benchmark",
               "language-model",
@@ -4320,7 +4319,7 @@
             "open_issues": 80,
             "owner": "THUDM",
             "repo": "AgentBench",
-            "stars": 3808,
+            "stars": 3814,
             "topics": [
               "chatgpt",
               "gpt-4",
@@ -4346,7 +4345,7 @@
             "open_issues": 170,
             "owner": "xlang-ai",
             "repo": "OSWorld",
-            "stars": 3250,
+            "stars": 3251,
             "topics": [
               "agent",
               "artificial-intelligence",
@@ -4382,7 +4381,7 @@
             "open_issues": 106,
             "owner": "web-arena-x",
             "repo": "webarena",
-            "stars": 1640,
+            "stars": 1641,
             "topics": [
               "agent",
               "nlp"
@@ -4406,7 +4405,7 @@
             "open_issues": 40,
             "owner": "snap-research",
             "repo": "locomo",
-            "stars": 1259,
+            "stars": 1262,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:13.719Z"
@@ -4423,11 +4422,11 @@
             "id": 1206519531,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T15:52:23Z",
-            "open_issues": 100,
+            "last_commit": "2026-11-04T20:09:12Z",
+            "open_issues": 137,
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 1194,
+            "stars": 1200,
             "topics": [
               "agent-evaluation",
               "agentic-ai",
@@ -4537,7 +4536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:28:25.781Z",
+    "last_updated": "2026-11-04T20:45:04.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap.ai",
@@ -4545,11 +4544,11 @@
       "id": 1174978748,
       "language": "JavaScript",
       "license": "NOASSERTION",
-      "last_commit": "2026-11-02T09:04:24Z",
+      "last_commit": "2026-11-04T06:02:43Z",
       "open_issues": 3,
       "owner": "EvoMap",
       "repo": "awesome-agent-evolution",
-      "stars": 237,
+      "stars": 238,
       "topics": [
         "a2a",
         "agent-evolution",
@@ -4573,7 +4572,7 @@
         "skills"
       ]
     },
-    "original_repository_sha": "101f804056594c9da982bf9813fb131866e58b83",
+    "original_repository_sha": "11eb2c5cb97272bd19facfb3ceaea90ea0230016",
     "enhanced_repository": "enhansome/enhansome-agent-evolution",
     "enhanced_repository_description": null,
     "title": "Awesome Agent Evolution with stars"
